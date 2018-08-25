@@ -38,8 +38,8 @@
  -webkit-transition: all 0.8s ease-in-out; 
  -moz-transition: all 0.8s ease-in-out;  }
 
-.petitdesir011 a:link, .petitdesir01  a:visited, .petitdesir011 a:active { vertical-align: center; t
- ext-align: center; 
+.petitdesir011 a:link, .petitdesir01  a:visited, .petitdesir011 a:active { vertical-align: center; 
+ text-align: center; 
  color: rgba(1,1,1,1); 
  letter-spacing: 1px; 
  font-size: 7.5px; 
