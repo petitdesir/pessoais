@@ -100,13 +100,4 @@ padding: 20px 0 20px 0;
 line-height: 19px; 
 white-space: pre-line;
 } 
-  
-.words:first-letter {
-float: left;   
-margin: 20px 25px 0px 15px; 
-color: #000; 
-text-transform: uppercase; 
-font-family: 'Old Standard TT', serif; 
-font-size: 15px; 
-font-weight: bold; 
-}
+ 
