@@ -1,0 +1,10 @@
+.petitdesir01 { width: 109px; height: 20px; padding:10px; background-color: #FFF;  color: #F1F1F1; letter-spacing: 1px; font-size: 7.5px; font-family: Arial Narrow; text-align: center; text-transform: lowercase; -o-transition: all 0.8s ease-in-out; -webkit-transition: all 0.8s ease-in-out; -moz-transition: all 0.8s ease-in-out;  }
+.petitdesir01 a:link, .petitdesir01  a:visited, .petitdesir01  a:active { vertical-align: center; text-align: center; color:#FFF; letter-spacing: 1px; font-size: 7.5px; font-family: Arial Narrow; text-transform: uppercase;  color: #009989; }
+.petitdesir01:hover { background-color: #F1F1F1; color: #FFF; }
+ 
+.petitdesir011 { width: 109px; height: 20px; padding:10px; background-color: rgba(1,1,1,1);  color: #FFF; letter-spacing: 1px; font-size: 7.5px; font-family: Arial Narrow; text-align: center; text-transform: lowercase; -o-transition: all 0.8s ease-in-out; -webkit-transition: all 0.8s ease-in-out; -moz-transition: all 0.8s ease-in-out;  }
+.petitdesir011 a:link, .petitdesir01  a:visited, .petitdesir011 a:active { vertical-align: center; text-align: center; color: rgba(1,1,1,1); letter-spacing: 1px; font-size: 7.5px; font-family: Arial Narrow; text-transform: uppercase; }
+.petitdesir011:hover { background-color: #FFF; color: #000; }
+  
+.petitdesir02 { width: 500px; padding: 0px; background-color: transparent;  color:#000; letter-spacing: 10px; font-size: 10px; font-family: Yanone Kaffeesatz; text-align: right; text-transform: uppercase; -o-transition: all 0.8s ease-in-out; -webkit-transition: all 0.8s ease-in-out; -moz-transition: all 0.8s ease-in-out; }
+.petitdesir02:hover { color: #FFF; }
