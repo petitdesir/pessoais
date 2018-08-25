@@ -1,69 +1,4 @@
-.petitdesir01 { 
- width: 35px;
- height: 20px; 
- padding:10px; 
- background-color: #FFF;  
- color: #e5e5e5;
- letter-spacing: 1px; 
- font-size: 6.5px; 
- font-family: roboto;
- text-align: center; 
- text-transform: uppercase; 
- -o-transition: all 0.8s ease-in-out; 
- -webkit-transition: all 0.8s ease-in-out; 
- -moz-transition: all 0.8s ease-in-out;  
- }
-
-.petitdesir01 a:link, .petitdesir01  a:visited, .petitdesir01  a:active { 
- vertical-align: center; 
- text-align: center; 
- color:#FFF; 
- letter-spacing: 1px; 
- font-size: 6.5px; 
- font-family: roboto; 
- text-transform: uppercase;  
- color: #e5e5e5; 
- }
-
-.petitdesir01:hover { 
-  width: 35px;
-  background-color: #F1F1F1; 
-  color: #FFF;
-  border: 1px dotted #FFF;
-  }
- 
-.petitdesir011 { 
- width: 35px;
- height: 20px; 
- padding:10px; 
- border: 1px dotted #e5e5e5; 
- color: #e5e5e5; 
- letter-spacing: 1px; 
- font-size: 6.5px; 
- font-family: roboto;
- text-align: center; 
- text-transform:  uppercase; 
- -o-transition: all 0.8s ease-in-out;
- -webkit-transition: all 0.8s ease-in-out; 
- -moz-transition: all 0.8s ease-in-out;  
- }
-
-.petitdesir011 a:link, .petitdesir01  a:visited, .petitdesir011 a:active { 
- vertical-align: center; 
- text-align: center; 
- color: rgba(1,1,1,1); 
- letter-spacing: 1px; 
- font-size: 6.5px; 
- font-family:  uppercase; 
- text-transform: uppercase; 
- }
-
-.petitdesir011:hover { 
-background-color: #FFF; 
-color: #e5e5e5; 
-}
-
- .heh {
+.heh {
  width: 305px; 
  background: white; 
  padding: 160px; 
@@ -91,6 +26,13 @@ border-bottom: 1px dotted #e5e5e5;
 margin: 5px 0 5px 0; 
 display: block;
 } 
+
+.h4 {font: 9.5px/12px 'Old Standard TT', serif;  
+ color: #000; 
+ text-align: justify; 
+ line-height: 19px;  
+ white-space: pre-line; 
+ padding-left: 10px;}
   
 .words {
 font: 9.5px/12px 'Old Standard TT', serif; 
