@@ -1,0 +1,254 @@
+.petitdesirr { width: 130px; 
+height: 75px; 
+padding-top: 75px;
+background-color: #FFF;
+opacity: 0;  
+font-family: Courier New;  
+font-size: 8px; 
+color: #B22222; 
+text-transform: uppercase;  
+text-align:center; 
+letter-spacing: 2px; 
+-webkit-transition-property: opacity; 
+-webkit-transition-duration: .7s; 
+-webkit-transition-timing-function: linear; 
+-moz-transition-property:opacity; 
+-moz-transition-duration: .7s; 
+-moz-transition-timing-function: linear; }
+
+.petitdesirr:hover { opacity:1; }
+
+.petitdesirr02 {width:500px;
+padding:20px}
+
+.petitdesirr03 { width: 115px;
+padding-bottom: 5px;
+font-family: Yanone Kaffeesatz; 
+color: #B22222;
+font-size: 10px; 
+text-align: right; 
+text-transform: uppercase;
+line-height: 80%; 
+letter-spacing: 2px; }
+
+.petitdesirr04 { width: 95px; 
+height: 100px; 
+background-color:#FFF; 
+padding: 15px; 
+color:#000; 
+font-family: Yanone Kaffeesatz; 
+font-size: 8px; 
+text-align:justify; 
+text-transform: uppercase;
+overflow:auto;
+border-bottom: 5px solid #000;
+border-top: 1px solid #000;  }
+
+.petitdesirr05 { width: 115px;
+height: 45px; 
+background-color:#000; 
+padding:5px; 
+color: #FFF; 
+font-family:  Yanone Kaffeesatz; 
+font-size: 8px; 
+text-align:center; 
+text-transform: uppercase; }
+
+.petitdesir_00 { width: 250px; 
+height: 100px; 
+padding-top: 100px;
+background-color: #FFF;
+opacity: 0;  
+font-family: Yanone Kaffeesatz;   
+font-size: 12px; 
+color: #B22222; 
+text-transform: uppercase;  
+text-align:center; 
+letter-spacing: 2px; 
+-webkit-transition-property: opacity; 
+-webkit-transition-duration: .7s; 
+-webkit-transition-timing-function: linear; 
+-moz-transition-property:opacity; 
+-moz-transition-duration: .7s; 
+-moz-transition-timing-function: linear; }
+
+.petitdesir_00:hover { opacity:1; }
+
+.petitdesir_02 {width:500px;
+padding:20px}
+
+.petitdesir_03 { width: 520px;
+padding-bottom: 5px;
+font-family: Yanone Kaffeesatz; 
+color: #B22222;
+font-size: 40px; 
+text-align: right; 
+text-transform: uppercase;
+line-height: 80%; 
+letter-spacing: 2px; }
+
+.petitdesir_04 { width: 220px; 
+height: 189px; 
+background-color: #FFF; 
+padding: 15px; 
+color: #000; 
+font-family: Yanone Kaffeesatz;  
+font-size: 8px; 
+text-align:justify; 
+text-transform: uppercase;
+overflow:auto;
+border-left: 1px solid #000; }
+
+.petitdesir_05 { width: 510px; 
+background-color: #000; 
+padding: 5px; 
+color: #FFF; 
+font-family: Yanone Kaffeesatz; 
+font-size: 8px; 
+text-align:center; 
+text-transform: uppercase; }
+
+.petitdesir_06 { width: 316px;
+padding-top: 5px;
+padding-bottom: 20px;
+font-family: Yanone Kaffeesatz; 
+font-size: 8px;
+text-align: right;
+text-transform: lowercase;
+letter-spacing: 1px;
+text-shadow: 0px 2px 0px #FFF; }
+
+.petitdesir{ width: 210px; 
+height: 75px; 
+padding-top: 125px;
+background-color: #FFF;
+opacity: 0;  
+font-family: Yanone Kaffeesatz;  
+font-size: 12px; 
+color: #B22222; 
+text-transform: uppercase;  
+text-align:center; 
+letter-spacing: 2px; 
+-webkit-transition-property: opacity; 
+-webkit-transition-duration: .7s; 
+-webkit-transition-timing-function: linear; 
+-moz-transition-property:opacity; 
+-moz-transition-duration: .7s; 
+-moz-transition-timing-function: linear; }
+
+.petitdesir:hover { opacity:1; }
+
+.petitdesir02 {width:500px;
+padding:20px}
+
+.petitdesir03 { width: 245px;
+padding-bottom: 5px;
+font-family: Yanone Kaffeesatz; 
+color: #B22222;
+font-size: 25px; 
+text-align: right; 
+text-transform: uppercase;
+line-height: 80%; 
+letter-spacing: 2px; }
+
+.petitdesir04 { width: 215px; 
+height: 100px; 
+background-color:#F9F9F9; 
+padding:15px; 
+color:#000; 
+font-family: Yanone Kaffeesatz;  
+font-size:10px; 
+text-align:justify; 
+overflow:auto;
+border-bottom: 5px solid #000;
+border-top: 1px solid #000;  }
+
+.petitdesir05 { width:235px; 
+background-color:#000; 
+padding:5px; 
+color: #FFF; 
+font-family:  Yanone Kaffeesatz; 
+font-size: 8px; 
+text-align:center; 
+text-transform: uppercase; }
+
+.petitdesir06 { width: 416px;
+padding-top: 5px;
+padding-bottom: 20px;
+font-family: Yanone Kaffeesatz; 
+font-size: 8px;
+text-align: right;
+text-transform: lowercase;
+letter-spacing: 1px;
+text-shadow: 0px 2px 0px #FFF; }
+
+
+.petitdesir_000 { width: 250px; 
+height: 50px; 
+padding-top: 100px;
+background-color: #FFF;
+opacity: 0;  
+font-family: Yanone Kaffeesatz; 
+font-size: 12px; 
+color: #B22222; 
+text-transform: uppercase;  
+text-align:center; 
+letter-spacing: 2px; 
+-webkit-transition-property: opacity; 
+-webkit-transition-duration: .7s; 
+-webkit-transition-timing-function: linear; 
+-moz-transition-property:opacity; 
+-moz-transition-duration: .7s; 
+-moz-transition-timing-function: linear; }
+
+.petitdesir_000:hover { opacity:1; }
+
+.petitdesir_000 a {text-decoration: none; font-family: Yanone Kaffeesatz; }
+
+.petitdesir_000 a:link {text-decoration: none; font-family: Yanone Kaffeesatz; }
+ 
+.petitdesir_002 {width:500px;
+padding:20px}
+
+.petitdesir_003 { width: 520px;
+padding-bottom: 5px;
+font-family: Yanone Kaffeesatz; 
+color: #B22222;
+font-size: 14px; 
+text-align: right; 
+text-transform: uppercase;
+line-height: 80%; 
+letter-spacing: 2px; }
+
+.petitdesir_004 { width: 239px; 
+height: 120px; 
+background-color: transparent; 
+padding:15px; 
+color:#000; 
+font-family: Arial Narrow;
+font-size: 11px; 
+text-align: justify; 
+overflow: auto;
+text-transform: —;
+border-right: 1px solid —;
+line-height: 15px; }
+
+.petitdesir_005 { width:510px; 
+background-color:#000;  
+padding:5px; 
+color: #FFF; 
+font-family: Yanone Kaffeesatz; 
+font-size: 8px; 
+text-align:center; 
+text-transform: uppercase; 
+letter-spacing: 2px;}
+
+.petitdesir_006 { width: 316px;
+padding-top: 5px;
+padding-bottom: 20px;
+font-family: Yanone Kaffeesatz; 
+font-size: 8px;
+text-align: right;
+text-transform: lowercase;
+letter-spacing: 1px;
+text-shadow: 0px 2px 0px #FFF; }
