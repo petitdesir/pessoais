@@ -1,0 +1,120 @@
+.heh {
+ width: 305px; 
+ background: white; 
+ padding: 160px; 
+ border: 1px solid #e5e5e5;
+ } 
+  
+ .heh h1 {
+ font: 6.5px/10px roboto; 
+ color: #000; 
+ text-transform: uppercase; 
+ text-align: center; 
+ letter-spacing: 1px; 
+ font-weight: bold;
+} 
+  
+.heh h2 {
+ font: 10px/40px 'Old Standard TT', serif;  
+ color: #000; 
+ text-transform: uppercase; 
+ text-align: right; 
+ letter-spacing: 2px; 
+ padding: 5px 0 5px 0; 
+ border-top: 2px solid #000; 
+ border-bottom: 1px dotted #e5e5e5; 
+ margin: 5px 0 5px 0; 
+ display: block;
+} 
+
+.h5 {
+  font: 9.5px/12px 'Old Standard TT', serif;  
+  color: #000; 
+  text-align: justify; 
+  line-height: 19px;  
+  white-space: pre-line; 
+  padding-left: 20px;
+}
+  
+.words {
+ font: 9.5px/12px 'Old Standard TT', serif; 
+ color: #000; 
+ text-align: justify; 
+ padding: 20px 0 20px 0; 
+ line-height: 19px; 
+ white-space: pre-line;
+} 
+ 
+.nome {width: 135px; 
+ padding: 10px; 
+ font-family: roboto;  
+ letter-spacing: 1px; 
+ text-align: center; 
+ color: #e5e5e5; 
+ text-transform: uppercase;}
+  
+.linha { height: 270px; 
+ border-left: 1px solid #e5e5e5;}
+  
+.h1 { width: 135px; 
+ padding-bottom: 10px;
+ padding-top: 10px;
+ font-family: roboto; 
+ font-weight: 700; 
+ font-size: 7px; 
+ letter-spacing: 1px; 
+ text-transform: uppercase; 
+ color: #000; 
+ text-align: right; 
+}
+
+.h2 { width: 135px; 
+ padding-left: 15px; 
+}
+
+.marcellus {box-shadow: 0px 1px 30px 1px #fff; 
+ border: 20px solid rgba(255,255,255, 0.4); 
+ width: 90px; 
+ height: 90px; 
+ background-position: center;  
+ border-radius: 100px; filter: saturate(0%); 
+ box-shadow: 2px 2px 5px black; 
+ -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+ clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); 
+  background-image: url(https://i.imgur.com/PGIeKMB.png);
+}
+  
+.borbon {box-shadow: 0px 1px 30px 1px #fff; 
+ border: 20px solid rgba(255,255,255, 0.4); 
+ width: 90px; height: 90px; 
+ background-position: center; 
+ border-radius: 100px; 
+ filter: saturate(0%); 
+ box-shadow: 2px 2px 5px black; 
+ -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+ clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); 
+ background-image: url(https://i.imgur.com/L2JPDxh.png); 
+}
+  
+.holy {box-shadow: 0px 1px 30px 1px #fff; 
+ border: 20px solid rgba(255,255,255, 0.4); 
+ width: 90px; height: 90px; 
+ background-position: center; 
+ border-radius: 100px; filter: saturate(0%); 
+ box-shadow: 2px 2px 5px black; 
+ -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+ clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); 
+ background-image: url(https://i.imgur.com/C1ILrR3.png); 
+}
+  
+.celestial {box-shadow: 0px 1px 30px 1px #fff;
+ border: 20px solid rgba(255,255,255, 0.4);
+ width: 90px; height: 90px; 
+ background-position: center; 
+ border-radius: 100px; 
+ filter: saturate(0%); 
+ box-shadow: 2px 2px 5px black; 
+ -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+ clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); 
+ background-image: url(https://i.imgur.com/F0g2qdO.png); 
+}
