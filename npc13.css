@@ -47,7 +47,8 @@
  white-space: pre-line;
 } 
  
-.nome {width: 135px; 
+.nome {
+ width: 35px; 
  margin-top: 20px;
  padding-left: 10px; 
  padding-right: 10px;
