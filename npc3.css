@@ -6,7 +6,7 @@
  } 
   
  .heh h1 {
- font: 6.5px/10px roboto; 
+ font: 6.5px/10px 'Roboto', sans-serif; 
  color: #000; 
  text-transform: uppercase; 
  text-align: center; 
@@ -37,7 +37,7 @@
 }
   
 .words {
- font: 9.5px/12px 'Old Standard TT', serif; 
+ font: 10.5px/11px 'Old Standard TT', serif; 
  color: #000; 
  text-align: justify; 
  padding: 20px 0 20px 0; 
@@ -46,20 +46,23 @@
 } 
  
 .nome {width: 135px; 
+ margin-top: 20px;
  padding: 10px; 
- font-family: roboto;  
+ font-family: 'Roboto', sans-serif;  
  letter-spacing: 1px; 
  text-align: right; 
  color: #e5e5e5; 
- text-transform: uppercase;}
+ text-transform: uppercase;
+ letter-spacing: 1px;
+}
   
 .linha { height: 270px; 
- border-left: 1px solid #e5e5e5;}
+ border-left: 1px dotted #e5e5e5;}
   
 .h1 { width: 135px; 
  padding-bottom: 10px;
  padding-top: 10px;
- font-family: roboto; 
+ font-family: 'Roboto', sans-serif; 
  font-weight: 700; 
  font-size: 7px; 
  letter-spacing: 1px; 
