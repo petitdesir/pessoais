@@ -28,10 +28,10 @@
 } 
 
 .h5 {
-  font: 11.5px/11px 'Old Standard TT', serif;  
+  font: 11.5px 'Old Standard TT', serif;  
   color: #000; 
   text-align: justify; 
-  line-height: 19px;  
+  line-height: 15px;  
   white-space: pre-line; 
   padding-left: 20px;
   letter-spacing: -0.5px;
