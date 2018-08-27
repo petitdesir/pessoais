@@ -98,7 +98,7 @@
   
 .wonlefttext { 
   margin-right: 30px; 
-  width: 150px; 
+  width: 130px; 
   text-align:justify; 
   font-family: 'Old Standard TT', serif; 
   font-weight:400; 
@@ -123,7 +123,7 @@
   color: black; 
   position: absolute; 
   top: 20px; 
-  left: 165px; 
+  left: 145px; 
   z-index:1;
   }
   
@@ -159,7 +159,7 @@
   
 .wonrighttext { 
   margin-left: 30px; 
-  width: 150px; 
+  width: 130px; 
   text-align:justify; 
   font-family: 'Old Standard TT', serif; 
   font-weight:400; 
