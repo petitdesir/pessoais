@@ -97,12 +97,12 @@
   }
   
 .wonlefttext { 
-  margin-right: 20px; 
-  width: 120px; 
+  margin-right: 10px; 
+  width: 150px; 
   text-align:justify; 
   font-family: 'Old Standard TT', serif; 
   font-weight:400; 
-  line-height:13px; 
+  line-height: 13px; 
   font-size: 9.5px;  
   color:#000;  
   white-space: pre-line; 
