@@ -48,13 +48,13 @@
 } 
  
 .nome {
- width: 35px; 
+ width: 95px; 
  margin-top: 20px;
  padding-left: 10px; 
  padding-right: 10px;
  font-family: 'Roboto', sans-serif;  
  letter-spacing: 1px; 
- text-align: right; 
+ text-align: center; 
  color: #FFF; 
  text-transform: uppercase;
  letter-spacing: 1px;
@@ -62,8 +62,10 @@
  font-size: 9.5px;
 }
   
-.linha { height: 270px; 
- border-left: 1px dotted #e5e5e5;}
+.linha { 
+ height: 270px; 
+ border-left: 1px dotted #e5e5e5;
+}
   
 .h1 { width: 135px; 
  padding-bottom: 10px;
