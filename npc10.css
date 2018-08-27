@@ -28,13 +28,14 @@
 } 
 
 .h5 {
-  font: 11.5px 'Old Standard TT', serif;  
+  font: 10.5px 'Old Standard TT', serif;  
   color: #000; 
   text-align: justify; 
   line-height: 15px;  
   white-space: pre-line; 
   padding-left: 20px;
   letter-spacing: -0.5px;
+  font-style: italic;
 }
   
 .words {
