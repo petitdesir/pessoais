@@ -1,0 +1,234 @@
+.petitdesir01 { 
+ width: 35px;
+ height: 20px; 
+ padding:10px; 
+ background-color: #FFF;  
+ color: #e5e5e5;
+ letter-spacing: 1px; 
+ font-size: 6.5px; 
+ font-family: roboto;
+ text-align: center; 
+ text-transform: uppercase; 
+ -o-transition: all 0.8s ease-in-out; 
+ -webkit-transition: all 0.8s ease-in-out; 
+ -moz-transition: all 0.8s ease-in-out;  
+ }
+
+.petitdesir01 a:link, .petitdesir01  a:visited, .petitdesir01  a:active { 
+ vertical-align: center; 
+ text-align: center; 
+ color:#FFF; 
+ letter-spacing: 1px; 
+ font-size: 6.5px; 
+ font-family: roboto; 
+ text-transform: uppercase;  
+ color: #e5e5e5; 
+ }
+
+.petitdesir01:hover { 
+  width: 35px;
+  background-color: #F1F1F1; 
+  color: #FFF;
+  border: 1px dotted #FFF;
+  }
+ 
+.petitdesir011 { 
+ width: 35px;
+ height: 20px; 
+ padding:10px; 
+ border: 1px dotted #e5e5e5; 
+ color: #e5e5e5; 
+ letter-spacing: 1px; 
+ font-size: 6.5px; 
+ font-family: roboto;
+ text-align: center; 
+ text-transform:  uppercase; 
+ -o-transition: all 0.8s ease-in-out;
+ -webkit-transition: all 0.8s ease-in-out; 
+ -moz-transition: all 0.8s ease-in-out;  
+ }
+
+.petitdesir011 a:link, .petitdesir01  a:visited, .petitdesir011 a:active { 
+ vertical-align: center; 
+ text-align: center; 
+ color: rgba(1,1,1,1); 
+ letter-spacing: 1px; 
+ font-size: 6.5px; 
+ font-family:  uppercase; 
+ text-transform: uppercase; 
+ }
+
+.petitdesir011:hover { 
+background-color: #FFF; 
+color: #e5e5e5; 
+}
+
+ .heh {
+ width: 305px; 
+ background: white; 
+ padding: 160px; 
+ border: 1px solid #e5e5e5;
+ } 
+  
+ .heh h1 {
+ font: 6.5px/10px roboto; 
+ color: #000; 
+ text-transform: uppercase; 
+ text-align: center; 
+ letter-spacing: 1px; 
+ font-weight: bold;
+ } 
+  
+.heh h2 {
+font: 10px/40px 'Old Standard TT', serif;  
+color: #000; 
+text-transform: uppercase; 
+text-align: right; 
+letter-spacing: 2px; 
+padding: 5px 0 5px 0; 
+border-top: 2px solid #000; 
+border-bottom: 1px dotted #e5e5e5; 
+margin: 5px 0 5px 0; 
+display: block;
+} 
+  
+.words {
+font: 9.5px/12px 'Old Standard TT', serif; 
+color: #000; 
+text-align: justify; 
+padding: 20px 0 20px 0; 
+line-height: 19px; 
+white-space: pre-line;
+}
+
+.wonmiddle { 
+  width: 0px; 
+  position: relative; 
+  padding-bottom: 70px; 
+  border-right: 2px dotted #e5e5e5; 
+  }
+  
+.woncenter { 
+  position: relative; 
+  right: 155px; 
+  }
+  
+.wonleft { 
+  width: 259px; 
+  position:relative; 
+  right: 40px; 
+  }
+
+.wonleftnumber { 
+  font-family: 'Roboto', sans-serif; 
+  font-weight: bold; 
+  letter-spacing: 1px; 
+  font-size: 7.5px; 
+  color: black; 
+  position:absolute; 
+  top: 20px; 
+  left: 45px; 
+  z-index:1; 
+  }
+  
+.wonleftbox { 
+  position:relative; 
+  z-index:2; 
+  right:10px; 
+  top: 45px; 
+  } 
+  
+.wonleftcircle { 
+  position:absolute; 
+  right: 46px; 
+  font-family: 'Roboto', sans-serif; 
+  font-size: 20px; 
+  top:-9px; 
+  color: #e5e5e5; 
+  }
+  
+.wonleftname { 
+  font-family: 'Roboto', sans-serif; 
+  font-weight: 900; 
+  color:#000; 
+  font-size: 8px; 
+  width: 150px; 
+  padding:5px 0px 5px 0px; 
+  text-transform:uppercase; 
+  text-align:left; 
+  border-top: 2px solid #e5e5e5; 
+  margin-bottom: 16px; 
+  }
+  
+.wonlefttext { 
+  margin-right: 20px; 
+  width: 120px; 
+  text-align:justify; 
+  font-family: 'Old Standard TT', serif; 
+  font-weight:400; 
+  line-height:13px; 
+  font-size: 11.5px;  
+  color:#000;  
+  white-space: pre-line; 
+  text-transform: none;
+  }
+  
+.wonright {
+  width: 259px; 
+  position: relative; 
+  right: -90px; 
+  }
+  
+.wonrightnumber { 
+  font-family: 'Roboto', sans-serif; 
+  font-weight: bold; 
+  letter-spacing: 1px; 
+  font-size: 7.5px; 
+  color: black; 
+  position: absolute; 
+  top: 20px; 
+  left: 185px; 
+  z-index:1;
+  }
+  
+.wonrightbox { 
+  position: relative; 
+  z-index: 2; 
+  left: 10px; 
+  top: 45px; 
+  }
+
+.wonrightcircle {  
+  position: absolute; 
+  right: 195px; 
+  font-family: 'Roboto', sans-serif; 
+  font-size: 20px; 
+  top: -9px; 
+  color: #e5e5e5; 
+  }
+  
+.wonrightname { 
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold; 
+  color: #000; 
+  font-size:8px; 
+  width: 150px; 
+  padding: 5px 0px 5px 0px; 
+  text-transform: uppercase; 
+  text-align:right; 
+  border-top: 2px solid #e5e5e5; 
+  margin-bottom: 16px; 
+  }
+  
+.wonrighttext { 
+  margin-left: 30px; 
+  width: 150px; 
+  text-align:justify; 
+  font-family: 'Old Standard TT', serif; 
+  font-weight:400; 
+  line-height: 13px; 
+  font-size: 11.5px; 
+  color:#000; 
+  white-space: pre-line;
+  text-transform: none;
+  }
