@@ -1,0 +1,125 @@
+.heh {
+ width: 305px; 
+ background: white; 
+ padding: 160px; 
+ border: 1px solid #e5e5e5;
+ } 
+  
+.heh h1 {
+ font: 6.5px/10px roboto; 
+ color: #000; 
+ text-transform: uppercase; 
+ text-align: center; 
+ letter-spacing: 1px; 
+ font-weight: bold;
+ } 
+
+.heh h2 {
+ font: 10px/40px 'Old Standard TT', serif;  
+ color: #000; 
+ text-transform: uppercase; 
+ text-align: right; 
+ letter-spacing: 2px; 
+ padding: 5px 0 5px 0; 
+ border-top: 2px solid #000; 
+ border-bottom: 1px dotted #e5e5e5; 
+ margin: 5px 0 5px 0; 
+ display: block;
+} 
+  
+.words {
+ font: 9.5px/12px 'Old Standard TT', serif; 
+ color: #000; 
+ text-align: justify; 
+ padding: 20px 0 20px 0; 
+ line-height: 19px; 
+ white-space: pre-line;
+}
+
+.nvlpcn{
+  position:relative;
+  margin: 0px auto;
+  height: 270px
+  }
+  
+.nvlplft,.nvlprgt {
+  width: 0;
+  height: 0;
+  top: 50;
+  position:absolute;
+  }
+  
+.nvlplft {
+    border-bottom: 160px solid #e5e5e5;
+    border-right: 305px solid transparent;
+    border-left: 0 solid transparent;
+  }
+ 
+.nvlprgt{ 
+    border-bottom: 160px solid #f5f5f5;
+    border-left: 305px solid transparent;
+    border-right: 0 solid transparent;
+    margin-top: -18px;
+  }
+  
+  .nvlpbhn{width: 305px;
+    height: 170px;
+    position:absolute;
+    background: #b5b5b5; 
+    top: 0px}
+  
+  .lttr{
+    width: 225px;
+    height: 150px;
+    background: #FFF;
+    position: absolute; 
+    left: 20px; 
+    top: 20px; 
+    padding: 0 20px; 
+    overflow:auto; 
+    box-shadow:0 0 2px #bfbfbf; 
+    border-top: 20px solid #FFF; 
+    border-bottom: 20px solid #FFF; 
+    font-size: 9.5px;
+    text-align:justify;
+    color:#000; 
+    font-family: 'Old Standard TT', serif;}
+  
+  .lttr .sgn {
+    font-family:'Old Standard TT', serif;
+    font-size: 9.5px;
+    text-align:right;
+    margin-top:10px
+  }
+  
+  .lttr::-webkit-scrollbar{
+    width:0
+  }
+  
+  .lttr::-webkit-scrollbar-track-piece{
+    background-color:#000
+  }
+  
+  .lttr::-webkit-scrollbar-thumb{ 
+    background-color:
+    #CF4647;
+    border:none!important
+  }
+  
+  .trs{
+    transition-duration:.75s;
+    -webkit-transition-duration:.75s;
+    -moz-transition-duration:.75s;
+    -ms-transition-duration:.75s;
+    -o-transition-duration:.75s
+  }
+  
+  .nvlpcn:hover>
+  .lttr{top:-65px;height:300px;z-index:2}
+  .nvlpcn:hover>
+  .nvlpbhn,.nvlpcn:hover>
+  .nvlplft,.nvlpcn:hover>
+  .nvlprgt,.nvlpcn:hover>
+  .nvlptrg{opacity:0}
+  
+  .dl{transition-delay:0s}
