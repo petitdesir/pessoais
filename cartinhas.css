@@ -1,11 +1,13 @@
 .heh2
-{width: 635px; 
+{
+ width: 635px; 
  padding: 5px 1px 5px 1px; 
  background: white; 
  border: 1px dotted #e5e5e5;
 }
 
-.heh3 {padding-top: 15px; 
+.heh3 {
+ padding-top: 15px; 
  width: 614px; 
  text-align: right; 
  font: 9px 'Old Standard TT', serif;
