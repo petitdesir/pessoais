@@ -1,0 +1,205 @@
+.heh {
+ width: 305px; 
+ background: white; 
+ padding: 160px; 
+ border: 1px solid #e5e5e5;
+ } 
+  
+.heh h1 {
+ font: 6.5px/10px roboto; 
+ color: #000; 
+ text-transform: uppercase; 
+ text-align: center; 
+ letter-spacing: 1px; 
+ font-weight: bold;
+ } 
+
+.heh h2 {
+ font: 10px/40px 'Old Standard TT', serif;  
+ color: #000; 
+ text-transform: uppercase; 
+ text-align: right; 
+ letter-spacing: 2px; 
+ padding: 5px 0 5px 0; 
+ border-top: 2px solid #000; 
+ border-bottom: 1px dotted #e5e5e5; 
+ margin: 5px 0 5px 0; 
+ display: block;
+} 
+  
+.words {
+ font: 9.5px/12px 'Old Standard TT', serif; 
+ color: #000; 
+ text-align: justify; 
+ padding: 20px 0 20px 0; 
+ line-height: 19px; 
+ white-space: pre-line;
+}
+
+ .tr33_modal 
+{ position: fixed; 
+  top: 0; 
+  right: 0; 
+  bottom: 0; 
+  left: 0; 
+  background: rgba(0, 0, 0, 0.8); 
+  z-index: 99999; 
+  opacity: 0; 
+  -webkit-transition: opacity 400ms ease-in; 
+  -moz-transition: opacity 400ms ease-in; 
+  transition: opacity 400ms ease-in; 
+  pointer-events: none; 
+  font-family: 'Old Standard TT', serif; 
+  }
+  
+.tr33_modal:target 
+{ opacity:1; 
+  pointer-events: auto; 
+  }
+  
+tr33_modal > .tr33_pop 
+{ width: 700px; 
+  position: relative; 
+  margin: 10% auto; 
+  padding: 50px; 
+  }
+  
+.tr33_pop a 
+{ color: #FFF; 
+  display: inline-block; 
+  border-bottom: none; 
+  }
+  
+.tr33_pop2
+{ width: 1200px; 
+  height: 650px;
+  padding: 50px; 
+  background-color: rgba(255, 255, 255, 0.3); 
+  text-align: justify; 
+  position: relative; 
+  top: 20px; 
+  }
+  
+.tr33_pop2 h1
+{ font-family: 'Old Standard TT', serif; 
+  font-size: 25px; 
+  color: #FFF; 
+  text-align: right; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  font-weight: 700; 
+  margin-bottom: 1px; 
+  display: inline-block; 
+  margin-top: 0px;
+  margin-left: 150px;  
+  }
+  
+.tr33_pop2 h2
+{ font-family: 'Old Standard TT', serif; 
+  font-size: 7px; 
+  color: #FFF; 
+  text-align: right; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  font-weight: 700; 
+  margin-bottom: 1px; 
+  display: inline-block; 
+  }
+  
+.tr33_pop2 img
+{  }
+  
+.tr33_pop2 tree
+{ font-family: 'Old Standard TT', serif; 
+  font-size: 10px; 
+  color: #FFF; 
+  text-align: justify; 
+  line-height: 110%; }
+  
+.tr33_close
+{ color: #FFF; 
+  position: absolute; 
+  right: 30px; 
+  top: 5px; 
+  padding-bottom: 10px;
+  border-bottom: none; 
+  font-family: 'Old Standard TT', serif; 
+  font-size: 8px; 
+  font-weight: 700; 
+  letter-spacing: 5px; }
+  
+.tr33_close a 
+{ color: #FFF; 
+  border-bottom: none; }
+  
+.gtback
+{ width: 500px; 
+  margin-left: -100px;}
+  
+.gtname
+{ font-family: 'Old Standard TT', serif; font-size: 8px; text-align: center; text-transform: uppercase; letter-spacing: 1px; }
+  
+.gtname a
+{ border-bottom: none; }
+.gtname af
+{ color: #253f77; }
+.gtname dcs
+{ color: rgba(0,0,0,0.3); }
+.gtname twn
+{ color: #253f77; }
+.gtname nso
+{ color: #253f77; }
+.gtname mr:after 
+{ content: ""; display: inline-block; margin-left: 1px; height: 1px; background-color: #e5e5e5; width: 25px; vertical-align: middle; }
+.gtname mrs:before 
+{ content: ""; display: inline-block; margin-right: 1px; height: 1px; background-color: #e5e5e5; width: 25px; vertical-align: middle; }
+  
+.gtname sbl:after 
+{ content: ""; display: inline-block; margin-left: 1px; height: 1px; background-color: #FFF; width: 10px; vertical-align: middle; }
+  
+.gtname sbs:before 
+{ content: ""; display: inline-block; margin-right: 1px; height: 1px; background-color: #FFF; width: 10px; vertical-align: middle; }
+
+#pinkrice1 { 
+  width: 200px; 
+  margin-top: 120px; 
+  margin-bottom: 20px;
+  }
+  
+.pink1 { width: 100px; 
+  }
+  
+#pinkrice1 .three1 { 
+  width: 210px; 
+  height: 210px; 
+  border: 30px solid #FFF; 
+  padding: 10px; 
+  -webkit-transform: rotate(45deg); 
+  -moz-transform: rotate(45deg); 
+  -ms-transform: rotate(45deg); 
+  -o-transform: rotate(45deg); 
+  transform: rotate(45deg); 
+  position: relative; 
+  right: 30px; 
+  top: 20px; 
+  overflow: hidden; 
+  margin-left: 0px; 
+  outline: solid 1px #FFF; 
+  outline-offset: 10px;
+  }
+  
+#pinkrice1 .three1img { width: 200px; 
+  height: 200px;  
+  -webkit-transform: rotate(-45deg); 
+  -moz-transform: rotate(-45deg); 
+  -ms-transform: rotate(-45deg); 
+  -o-transform: rotate(-45deg); 
+  transform: rotate(-45deg); 
+  }
+  
+#pinkrice1 .four1 img { width: 450px; 
+  height: 450px; 
+  background-position: center top; 
+  margin-top: -60px; 
+  margin-left: -120px;  
+  }
